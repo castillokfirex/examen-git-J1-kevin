@@ -12,3 +12,8 @@ resistecia
 ponte guantes y golpea al aire suave
 empieza un combate o pegale a un saco
 matente calmado y despues descansa
+
+## cosejo
+siempre cuidado con quien peleas
+tienes que saber cuando remndirte
+ojo te mueres.
