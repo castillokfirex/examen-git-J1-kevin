@@ -7,3 +7,8 @@ los ejercicios de fuierza rompen tus fibras musculares y cuando el cuerpa las re
 aumenta tu fuerza
 mejora tu descanso y recuperacion
 hace crecer el musculo
+
+## instrucciones
+calienta muy bien con peso ligero
+entreno fuerte con levantamiento de pesas (pres de banca, elevaciones, martillo)
+estira y toma un baño con agua fria.
