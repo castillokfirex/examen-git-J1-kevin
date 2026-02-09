@@ -12,3 +12,8 @@ ayudaa al corazon
 camina y monta cicla suave para calentar
 monta cicla a nuen ritmo y sube una montaña
 descansa e idratate bien.
+
+## consejos
+hidratate bien
+practica mucho
+monta con cuidado.
