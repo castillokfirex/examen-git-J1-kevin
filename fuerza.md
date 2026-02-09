@@ -12,3 +12,9 @@ hace crecer el musculo
 calienta muy bien con peso ligero
 entreno fuerte con levantamiento de pesas (pres de banca, elevaciones, martillo)
 estira y toma un baño con agua fria.
+
+## consejos
+es malo hacerlo todos los dias
+prioriza el descaso
+ten una buena alimentacion
+aumenta el peso progresivamente
